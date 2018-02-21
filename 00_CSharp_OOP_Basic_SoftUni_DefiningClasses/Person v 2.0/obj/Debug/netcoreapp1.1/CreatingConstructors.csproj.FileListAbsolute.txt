@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\bin\Debug\netcoreapp1.1\CreatingConstructors.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\bin\Debug\netcoreapp1.1\CreatingConstructors.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\bin\Debug\netcoreapp1.1\CreatingConstructors.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\bin\Debug\netcoreapp1.1\CreatingConstructors.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\bin\Debug\netcoreapp1.1\CreatingConstructors.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\obj\Debug\netcoreapp1.1\CreatingConstructors.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\obj\Debug\netcoreapp1.1\CreatingConstructors.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\obj\Debug\netcoreapp1.1\CreatingConstructors.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Person v 2.0\obj\Debug\netcoreapp1.1\CreatingConstructors.pdb

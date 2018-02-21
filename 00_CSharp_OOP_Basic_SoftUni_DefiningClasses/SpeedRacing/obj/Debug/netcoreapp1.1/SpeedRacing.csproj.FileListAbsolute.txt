@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\bin\Debug\netcoreapp1.1\SpeedRacing.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\bin\Debug\netcoreapp1.1\SpeedRacing.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\bin\Debug\netcoreapp1.1\SpeedRacing.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\bin\Debug\netcoreapp1.1\SpeedRacing.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\bin\Debug\netcoreapp1.1\SpeedRacing.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\obj\Debug\netcoreapp1.1\SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\obj\Debug\netcoreapp1.1\SpeedRacing.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\obj\Debug\netcoreapp1.1\SpeedRacing.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\SpeedRacing\obj\Debug\netcoreapp1.1\SpeedRacing.pdb

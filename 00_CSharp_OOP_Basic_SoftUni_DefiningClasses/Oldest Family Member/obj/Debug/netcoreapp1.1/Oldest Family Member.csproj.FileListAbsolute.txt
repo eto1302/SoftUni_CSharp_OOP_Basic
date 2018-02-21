@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\Oldest Family Member.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\Oldest Family Member.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\Oldest Family Member.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\Oldest Family Member.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\Oldest Family Member.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\Oldest Family Member.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\Oldest Family Member.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\Oldest Family Member.pdb

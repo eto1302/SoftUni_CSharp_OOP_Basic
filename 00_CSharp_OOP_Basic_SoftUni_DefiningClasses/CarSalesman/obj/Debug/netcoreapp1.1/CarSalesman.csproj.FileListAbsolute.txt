@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\bin\Debug\netcoreapp1.1\CarSalesman.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\bin\Debug\netcoreapp1.1\CarSalesman.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\bin\Debug\netcoreapp1.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\bin\Debug\netcoreapp1.1\CarSalesman.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\bin\Debug\netcoreapp1.1\CarSalesman.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\obj\Debug\netcoreapp1.1\CarSalesman.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\obj\Debug\netcoreapp1.1\CarSalesman.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\obj\Debug\netcoreapp1.1\CarSalesman.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CarSalesman\obj\Debug\netcoreapp1.1\CarSalesman.pdb

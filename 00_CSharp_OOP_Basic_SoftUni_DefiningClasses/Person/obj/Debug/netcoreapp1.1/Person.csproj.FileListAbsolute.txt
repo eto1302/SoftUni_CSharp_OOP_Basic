@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\Person.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\Person.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\Person.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\Person.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\Person.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\Person.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\Person.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\Person.pdb

@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\bin\Debug\netcoreapp1.1\RawData.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\bin\Debug\netcoreapp1.1\RawData.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\bin\Debug\netcoreapp1.1\RawData.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\bin\Debug\netcoreapp1.1\RawData.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\bin\Debug\netcoreapp1.1\RawData.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\obj\Debug\netcoreapp1.1\RawData.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\obj\Debug\netcoreapp1.1\RawData.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\obj\Debug\netcoreapp1.1\RawData.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RawData\obj\Debug\netcoreapp1.1\RawData.pdb

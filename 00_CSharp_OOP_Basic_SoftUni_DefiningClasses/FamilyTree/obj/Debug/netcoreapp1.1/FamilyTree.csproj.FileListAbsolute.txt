@@ -1,0 +1,8 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\bin\Debug\netcoreapp1.1\FamilyTree.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\bin\Debug\netcoreapp1.1\FamilyTree.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\bin\Debug\netcoreapp1.1\FamilyTree.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\obj\Debug\netcoreapp1.1\FamilyTree.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\bin\Debug\netcoreapp1.1\FamilyTree.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\bin\Debug\netcoreapp1.1\FamilyTree.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\obj\Debug\netcoreapp1.1\FamilyTree.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\FamilyTree\obj\Debug\netcoreapp1.1\FamilyTree.pdb

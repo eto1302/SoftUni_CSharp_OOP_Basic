@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\DefiningClasses2.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\DefiningClasses2.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\DefiningClasses2.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\DefiningClasses2.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\bin\Debug\netcoreapp1.1\DefiningClasses2.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\DefiningClasses2.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\DefiningClasses2.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\DefiningClasses2.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\DefiningClasses2\obj\Debug\netcoreapp1.1\DefiningClasses2.pdb

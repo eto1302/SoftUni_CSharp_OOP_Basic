@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\bin\Debug\netcoreapp1.1\RectangleIntersection.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\bin\Debug\netcoreapp1.1\RectangleIntersection.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\bin\Debug\netcoreapp1.1\RectangleIntersection.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\bin\Debug\netcoreapp1.1\RectangleIntersection.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\bin\Debug\netcoreapp1.1\RectangleIntersection.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\obj\Debug\netcoreapp1.1\RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\obj\Debug\netcoreapp1.1\RectangleIntersection.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\obj\Debug\netcoreapp1.1\RectangleIntersection.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\RectangleIntersection\obj\Debug\netcoreapp1.1\RectangleIntersection.pdb

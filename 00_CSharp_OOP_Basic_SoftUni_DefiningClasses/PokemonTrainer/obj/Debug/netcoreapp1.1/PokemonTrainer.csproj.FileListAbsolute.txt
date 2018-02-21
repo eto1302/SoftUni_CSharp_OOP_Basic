@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\bin\Debug\netcoreapp1.1\PokemonTrainer.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\bin\Debug\netcoreapp1.1\PokemonTrainer.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\bin\Debug\netcoreapp1.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\bin\Debug\netcoreapp1.1\PokemonTrainer.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\bin\Debug\netcoreapp1.1\PokemonTrainer.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\obj\Debug\netcoreapp1.1\PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\obj\Debug\netcoreapp1.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\obj\Debug\netcoreapp1.1\PokemonTrainer.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\PokemonTrainer\obj\Debug\netcoreapp1.1\PokemonTrainer.pdb

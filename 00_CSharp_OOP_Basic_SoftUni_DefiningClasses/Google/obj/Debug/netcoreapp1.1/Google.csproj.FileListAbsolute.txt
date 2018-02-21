@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\bin\Debug\netcoreapp1.1\Google.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\bin\Debug\netcoreapp1.1\Google.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\bin\Debug\netcoreapp1.1\Google.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\bin\Debug\netcoreapp1.1\Google.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\bin\Debug\netcoreapp1.1\Google.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\obj\Debug\netcoreapp1.1\Google.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\obj\Debug\netcoreapp1.1\Google.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\obj\Debug\netcoreapp1.1\Google.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\Google\obj\Debug\netcoreapp1.1\Google.pdb

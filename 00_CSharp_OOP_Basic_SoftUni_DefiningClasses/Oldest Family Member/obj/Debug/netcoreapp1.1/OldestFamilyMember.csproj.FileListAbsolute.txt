@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\OldestFamilyMember.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\OldestFamilyMember.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\OldestFamilyMember.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\bin\Debug\netcoreapp1.1\OldestFamilyMember.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\OldestFamilyMember.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\OldestFamilyMember.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\Oldest Family Member\obj\Debug\netcoreapp1.1\OldestFamilyMember.pdb

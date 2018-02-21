@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\bin\Debug\netcoreapp1.1\OpinionPoll.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\DefiningClasses2\OpinionPoll\obj\Debug\netcoreapp1.1\OpinionPoll.pdb

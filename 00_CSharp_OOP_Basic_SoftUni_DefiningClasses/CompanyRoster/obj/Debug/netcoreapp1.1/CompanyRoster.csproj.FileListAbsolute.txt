@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\bin\Debug\netcoreapp1.1\CompanyRoster.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\bin\Debug\netcoreapp1.1\CompanyRoster.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\bin\Debug\netcoreapp1.1\CompanyRoster.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\bin\Debug\netcoreapp1.1\CompanyRoster.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\bin\Debug\netcoreapp1.1\CompanyRoster.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\obj\Debug\netcoreapp1.1\CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\obj\Debug\netcoreapp1.1\CompanyRoster.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\obj\Debug\netcoreapp1.1\CompanyRoster.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\DefiningClasses2\CompanyRoster\obj\Debug\netcoreapp1.1\CompanyRoster.pdb
