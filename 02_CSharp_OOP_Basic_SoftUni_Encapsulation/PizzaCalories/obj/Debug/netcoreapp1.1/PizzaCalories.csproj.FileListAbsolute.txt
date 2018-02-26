@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\bin\Debug\netcoreapp1.1\PizzaCalories.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\bin\Debug\netcoreapp1.1\PizzaCalories.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\bin\Debug\netcoreapp1.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\bin\Debug\netcoreapp1.1\PizzaCalories.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\bin\Debug\netcoreapp1.1\PizzaCalories.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\obj\Debug\netcoreapp1.1\PizzaCalories.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\obj\Debug\netcoreapp1.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\obj\Debug\netcoreapp1.1\PizzaCalories.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\PizzaCalories\obj\Debug\netcoreapp1.1\PizzaCalories.pdb

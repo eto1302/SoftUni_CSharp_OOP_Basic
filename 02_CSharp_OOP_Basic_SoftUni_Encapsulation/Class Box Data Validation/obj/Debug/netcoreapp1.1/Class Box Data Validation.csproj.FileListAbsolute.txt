@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\bin\Debug\netcoreapp1.1\Class Box Data Validation.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\bin\Debug\netcoreapp1.1\Class Box Data Validation.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\bin\Debug\netcoreapp1.1\Class Box Data Validation.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\bin\Debug\netcoreapp1.1\Class Box Data Validation.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\bin\Debug\netcoreapp1.1\Class Box Data Validation.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\obj\Debug\netcoreapp1.1\Class Box Data Validation.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\obj\Debug\netcoreapp1.1\Class Box Data Validation.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Class Box Data Validation\obj\Debug\netcoreapp1.1\Class Box Data Validation.pdb

@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp1.1\Box.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp1.1\Box.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp1.1\Box.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp1.1\Box.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp1.1\Box.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp1.1\Box.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp1.1\Box.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp1.1\Box.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp1.1\Box.pdb

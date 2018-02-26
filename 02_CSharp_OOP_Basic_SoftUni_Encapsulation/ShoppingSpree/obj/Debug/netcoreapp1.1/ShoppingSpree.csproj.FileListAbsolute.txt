@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp1.1\ShoppingSpree.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp1.1\ShoppingSpree.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp1.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp1.1\ShoppingSpree.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\bin\Debug\netcoreapp1.1\ShoppingSpree.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp1.1\ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp1.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp1.1\ShoppingSpree.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Encapsulation\ShoppingSpree\obj\Debug\netcoreapp1.1\ShoppingSpree.pdb
