@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp1.1\OnlineRadioDatabase.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp1.1\OnlineRadioDatabase.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp1.1\OnlineRadioDatabase.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp1.1\OnlineRadioDatabase.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp1.1\OnlineRadioDatabase.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp1.1\OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp1.1\OnlineRadioDatabase.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp1.1\OnlineRadioDatabase.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp1.1\OnlineRadioDatabase.pdb

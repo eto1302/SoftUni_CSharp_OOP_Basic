@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Person.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Person.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Person.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Person.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\netcoreapp1.1\Person.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Person.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Person.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Person.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\netcoreapp1.1\Person.pdb

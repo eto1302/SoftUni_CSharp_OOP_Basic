@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\bin\Debug\netcoreapp1.1\BookShop.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\bin\Debug\netcoreapp1.1\BookShop.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\bin\Debug\netcoreapp1.1\BookShop.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\bin\Debug\netcoreapp1.1\BookShop.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\bin\Debug\netcoreapp1.1\BookShop.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\obj\Debug\netcoreapp1.1\BookShop.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\obj\Debug\netcoreapp1.1\BookShop.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\BookShop\obj\Debug\netcoreapp1.1\BookShop.pdb

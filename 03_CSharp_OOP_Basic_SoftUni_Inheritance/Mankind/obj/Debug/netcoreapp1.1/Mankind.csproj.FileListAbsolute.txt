@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\bin\Debug\netcoreapp1.1\Mankind.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\bin\Debug\netcoreapp1.1\Mankind.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\bin\Debug\netcoreapp1.1\Mankind.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\bin\Debug\netcoreapp1.1\Mankind.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\bin\Debug\netcoreapp1.1\Mankind.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\obj\Debug\netcoreapp1.1\Mankind.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\obj\Debug\netcoreapp1.1\Mankind.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\obj\Debug\netcoreapp1.1\Mankind.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Inheritance\Mankind\obj\Debug\netcoreapp1.1\Mankind.pdb

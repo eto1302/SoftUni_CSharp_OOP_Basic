@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\bin\Debug\netcoreapp1.1\Animals.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\bin\Debug\netcoreapp1.1\Animals.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\bin\Debug\netcoreapp1.1\Animals.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\bin\Debug\netcoreapp1.1\Animals.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\bin\Debug\netcoreapp1.1\Animals.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\obj\Debug\netcoreapp1.1\Animals.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\obj\Debug\netcoreapp1.1\Animals.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\obj\Debug\netcoreapp1.1\Animals.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Inheritance\Animals\obj\Debug\netcoreapp1.1\Animals.pdb
