@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\bin\Debug\netcoreapp1.1\WildFarm.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\bin\Debug\netcoreapp1.1\WildFarm.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\bin\Debug\netcoreapp1.1\WildFarm.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\bin\Debug\netcoreapp1.1\WildFarm.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\bin\Debug\netcoreapp1.1\WildFarm.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\obj\Debug\netcoreapp1.1\WildFarm.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\obj\Debug\netcoreapp1.1\WildFarm.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\obj\Debug\netcoreapp1.1\WildFarm.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\WildFarm\obj\Debug\netcoreapp1.1\WildFarm.pdb

@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp1.1\VehiclesExtension.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp1.1\VehiclesExtension.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp1.1\VehiclesExtension.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp1.1\VehiclesExtension.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\bin\Debug\netcoreapp1.1\VehiclesExtension.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp1.1\VehiclesExtension.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp1.1\VehiclesExtension.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\VehiclesExtension\obj\Debug\netcoreapp1.1\VehiclesExtension.pdb

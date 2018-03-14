@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\bin\Debug\netcoreapp1.1\Vehicles.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\bin\Debug\netcoreapp1.1\Vehicles.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\bin\Debug\netcoreapp1.1\Vehicles.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\bin\Debug\netcoreapp1.1\Vehicles.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\bin\Debug\netcoreapp1.1\Vehicles.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\obj\Debug\netcoreapp1.1\Vehicles.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\obj\Debug\netcoreapp1.1\Vehicles.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\obj\Debug\netcoreapp1.1\Vehicles.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Polymorphism\Vehicles\obj\Debug\netcoreapp1.1\Vehicles.pdb
