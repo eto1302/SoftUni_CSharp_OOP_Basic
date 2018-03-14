@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\bin\Debug\netcoreapp1.1\Define an Interface IPerson.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\bin\Debug\netcoreapp1.1\Define an Interface IPerson.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\bin\Debug\netcoreapp1.1\Define an Interface IPerson.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\bin\Debug\netcoreapp1.1\Define an Interface IPerson.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\bin\Debug\netcoreapp1.1\Define an Interface IPerson.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\obj\Debug\netcoreapp1.1\Define an Interface IPerson.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\obj\Debug\netcoreapp1.1\Define an Interface IPerson.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\obj\Debug\netcoreapp1.1\Define an Interface IPerson.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Define an Interface IPerson\obj\Debug\netcoreapp1.1\Define an Interface IPerson.pdb

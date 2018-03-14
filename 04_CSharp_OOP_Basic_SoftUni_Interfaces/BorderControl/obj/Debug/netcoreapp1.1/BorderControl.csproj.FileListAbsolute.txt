@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\bin\Debug\netcoreapp1.1\BorderControl.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\bin\Debug\netcoreapp1.1\BorderControl.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\bin\Debug\netcoreapp1.1\BorderControl.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\bin\Debug\netcoreapp1.1\BorderControl.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\bin\Debug\netcoreapp1.1\BorderControl.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\obj\Debug\netcoreapp1.1\BorderControl.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\obj\Debug\netcoreapp1.1\BorderControl.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\obj\Debug\netcoreapp1.1\BorderControl.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\BorderControl\obj\Debug\netcoreapp1.1\BorderControl.pdb

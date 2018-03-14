@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\bin\Debug\netcoreapp1.1\BirthdayCelebrations.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\bin\Debug\netcoreapp1.1\BirthdayCelebrations.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\bin\Debug\netcoreapp1.1\BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\bin\Debug\netcoreapp1.1\BirthdayCelebrations.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\bin\Debug\netcoreapp1.1\BirthdayCelebrations.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\obj\Debug\netcoreapp1.1\BirthdayCelebrations.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\obj\Debug\netcoreapp1.1\BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\obj\Debug\netcoreapp1.1\BirthdayCelebrations.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\BirthdayCelebrations\obj\Debug\netcoreapp1.1\BirthdayCelebrations.pdb

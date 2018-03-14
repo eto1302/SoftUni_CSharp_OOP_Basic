@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\bin\Debug\netcoreapp1.1\Ferrari.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\bin\Debug\netcoreapp1.1\Ferrari.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\bin\Debug\netcoreapp1.1\Ferrari.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\bin\Debug\netcoreapp1.1\Ferrari.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\bin\Debug\netcoreapp1.1\Ferrari.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\obj\Debug\netcoreapp1.1\Ferrari.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\obj\Debug\netcoreapp1.1\Ferrari.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\obj\Debug\netcoreapp1.1\Ferrari.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Ferrari\obj\Debug\netcoreapp1.1\Ferrari.pdb

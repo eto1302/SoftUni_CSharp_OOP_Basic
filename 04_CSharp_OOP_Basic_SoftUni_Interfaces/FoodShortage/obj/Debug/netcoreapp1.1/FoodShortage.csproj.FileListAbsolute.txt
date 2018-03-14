@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\bin\Debug\netcoreapp1.1\FoodShortage.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\bin\Debug\netcoreapp1.1\FoodShortage.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\bin\Debug\netcoreapp1.1\FoodShortage.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\bin\Debug\netcoreapp1.1\FoodShortage.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\bin\Debug\netcoreapp1.1\FoodShortage.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\obj\Debug\netcoreapp1.1\FoodShortage.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\obj\Debug\netcoreapp1.1\FoodShortage.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\obj\Debug\netcoreapp1.1\FoodShortage.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\FoodShortage\obj\Debug\netcoreapp1.1\FoodShortage.pdb

@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\bin\Debug\netcoreapp1.1\Telephony.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\bin\Debug\netcoreapp1.1\Telephony.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\bin\Debug\netcoreapp1.1\Telephony.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\bin\Debug\netcoreapp1.1\Telephony.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\bin\Debug\netcoreapp1.1\Telephony.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\obj\Debug\netcoreapp1.1\Telephony.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\obj\Debug\netcoreapp1.1\Telephony.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\obj\Debug\netcoreapp1.1\Telephony.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Interfaces\Telephony\obj\Debug\netcoreapp1.1\Telephony.pdb

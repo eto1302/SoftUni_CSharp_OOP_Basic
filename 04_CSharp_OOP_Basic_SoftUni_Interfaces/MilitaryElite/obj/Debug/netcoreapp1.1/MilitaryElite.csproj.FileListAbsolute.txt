@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\bin\Debug\netcoreapp1.1\MilitaryElite.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\bin\Debug\netcoreapp1.1\MilitaryElite.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\bin\Debug\netcoreapp1.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\bin\Debug\netcoreapp1.1\MilitaryElite.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\bin\Debug\netcoreapp1.1\MilitaryElite.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\obj\Debug\netcoreapp1.1\MilitaryElite.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\obj\Debug\netcoreapp1.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\obj\Debug\netcoreapp1.1\MilitaryElite.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Interfaces\MilitaryElite\obj\Debug\netcoreapp1.1\MilitaryElite.pdb
