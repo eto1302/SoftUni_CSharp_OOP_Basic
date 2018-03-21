@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Models.pdb

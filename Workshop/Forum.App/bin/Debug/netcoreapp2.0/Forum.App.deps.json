@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "forum.app/1.0.0": {
+        "dependencies": {
+          "Forum.Data": "1.0.0"
+        },
+        "runtime": {
+          "Forum.App.dll": {}
+        }
+      },
+      "forum.data/1.0.0": {
+        "dependencies": {
+          "Forum.Models": "1.0.0"
+        },
+        "runtime": {
+          "Forum.Data.dll": {}
+        }
+      },
+      "forum.models/1.0.0": {
+        "runtime": {
+          "Forum.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forum.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "forum.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "forum.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

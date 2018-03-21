@@ -1,0 +1,9 @@
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp1.1\Forum.Data.deps.json
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp1.1\Forum.Data.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp1.1\Forum.Data.pdb
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp1.1\Forum.Models.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\bin\Debug\netcoreapp1.1\Forum.Models.pdb
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp1.1\Forum.Data.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp1.1\Forum.Data.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp1.1\Forum.Data.dll
+C:\Users\vikmar\Desktop\07. CSharp-OOP-Basics-Workshop-Skeleton\Forum.Data\obj\Debug\netcoreapp1.1\Forum.Data.pdb
